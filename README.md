@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
-<h3 align="center">DevOps Engineer at Nagwa | Passionate about open source | Linux aficionado</h3>
+<h3 align="center">Senior DevOps Engineer | Passionate about open source | Linux aficionado</h3>
 
 - 🔭 I’m currently working on a pet project [copyboard](https://github.com/hossamdash/copyboard)
 
